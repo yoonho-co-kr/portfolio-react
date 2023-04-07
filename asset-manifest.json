@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.3a5de96e.css",
+    "main.js": "/portfolio-react/static/js/main.b3884961.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project1.PNG": "/portfolio-react/static/media/project1.20d6668b507619935d38.PNG",
+    "static/media/project4.PNG": "/portfolio-react/static/media/project4.b5230fb9990176751f40.PNG",
+    "static/media/입사지원서_정윤호.pdf": "/portfolio-react/static/media/입사지원서_정윤호.0ee8b644b9d4b0cce9c7.pdf",
+    "static/media/project2.PNG": "/portfolio-react/static/media/project2.06c55db13b81c89b6e3f.PNG",
+    "static/media/about.jpg": "/portfolio-react/static/media/about.60d5cb9829e654c19ba8.jpg",
+    "static/media/profile.jpg": "/portfolio-react/static/media/profile.60d5cb9829e654c19ba8.jpg",
+    "static/media/project3.PNG": "/portfolio-react/static/media/project3.6e32f240b9b4a200c0b6.PNG",
+    "index.html": "/portfolio-react/index.html",
+    "main.3a5de96e.css.map": "/portfolio-react/static/css/main.3a5de96e.css.map",
+    "main.b3884961.js.map": "/portfolio-react/static/js/main.b3884961.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a5de96e.css",
+    "static/js/main.b3884961.js"
+  ]
+}
